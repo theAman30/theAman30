@@ -2,6 +2,7 @@
 
 
 About Me
+
 •  🌐 Web Developer Enthusiast: Passionate about creating seamless and engaging web
     experiences.
 •  📚 Currently Learning: Diving deep into JavaScript and React.js to build dynamic web
