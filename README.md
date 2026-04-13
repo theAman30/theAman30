@@ -37,8 +37,8 @@
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://www.amansrivastav.in  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: (add your link here)
+- 📧 Email: theamansri30@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/aman-srivastava-ab6820233/
 
 ---
 
