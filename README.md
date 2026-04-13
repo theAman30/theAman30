@@ -1,25 +1,52 @@
-👋 Hi there, I’m Aman Srivastava!
+# 👋 Hi, I'm Aman Srivastava
 
+🚀 **Full Stack Developer (MERN)** | Passionate about building real-world web applications  
+🌐 I love creating responsive, user-friendly, and scalable web experiences  
 
-About Me
+---
 
-•  🌐 Web Developer Enthusiast: Passionate about creating seamless and engaging web
-    experiences.
-    
-•  📚 Currently Learning: Diving deep into JavaScript and React.js to build dynamic web
-    applications.
-    
-•  🤝 Collaboration Opportunities: I’m eager to collaborate on Front-End Development projects
-    that challenge my skills and spark creativity.
-    
-•  📧 Connect with Me: Feel free to reach out via my email. I’d love to hear from you!
+## 💼 About Me
 
+- 💻 **Web Developer** focused on modern frontend & full stack development  
+- ⚡ Currently working with **JavaScript, React.js, Node.js & Tailwind CSS**  
+- 🚀 Building **real-world projects** like E-commerce, Portfolio & Client Websites  
+- 🤝 Open to **Internships, Freelance & Collaboration opportunities**  
+- 📍 Based in India  
 
-Fun Fact
+---
 
-•  🌳 I’m also committed to planting trees and promoting sustainability through my projects.
+## 🛠️ Tech Stack
 
-<!---
-theAman30/theAman30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 🚀 Featured Projects
+
+- 🛒 **E-commerce Website** – Cart + WhatsApp Integration  
+- 🥊 **Boxing Association Website** – Dynamic sports platform  
+- 🌐 **Portfolio Website** – Modern responsive design  
+
+👉 More projects on my repositories  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://www.amansrivastav.in  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: (add your link here)
+
+---
+
+## 🌱 Beyond Code
+
+- 🌳 Passionate about **tree plantation & sustainability**  
+- 💡 Building projects that create **real-world impact**
+
+---
+
+⭐ *“Code. Build. Grow. Repeat.”*
